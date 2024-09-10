@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Beg. Jour.",
     "SCRTEXT_M":"Beginning Journal",
     "SCRTEXT_L":"Beginning Journal"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_BEGIN_JOURNAL",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Başlangıç yevmiye",
+    "REPTEXT":"Başlangıç yevmiye",
+    "SCRTEXT_S":"Baş.yev.",
+    "SCRTEXT_M":"Başlangıç yevmiye",
+    "SCRTEXT_L":"Başlangıç yevmiye"
    }
   ]
  },

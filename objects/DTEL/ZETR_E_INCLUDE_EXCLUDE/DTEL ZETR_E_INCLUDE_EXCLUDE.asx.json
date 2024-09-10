@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Inc/Exc",
     "SCRTEXT_M":"Include / Exclude",
     "SCRTEXT_L":"Include / Exclude"
+   },
+   {
+    "ROLLNAME":"ZETR_E_INCLUDE_EXCLUDE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Dahil/Hariç",
+    "REPTEXT":"Dahil/Hariç",
+    "SCRTEXT_S":"Dhl/Hrç",
+    "SCRTEXT_M":"Dahil/Hariç",
+    "SCRTEXT_L":"Dahil/Hariç"
    }
   ]
  },

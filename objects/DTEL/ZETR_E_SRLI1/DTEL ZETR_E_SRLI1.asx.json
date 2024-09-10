@@ -60,6 +60,17 @@
     "SCRTEXT_S":"DB->Dissec",
     "SCRTEXT_M":"DB->Dissection",
     "SCRTEXT_L":"DB->Dissection"
+   },
+   {
+    "ROLLNAME":"ZETR_E_SRLI1",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"DB->Parçala",
+    "REPTEXT":"DB->Parçala",
+    "SCRTEXT_S":"DB->Parç",
+    "SCRTEXT_M":"DB->Parçala",
+    "SCRTEXT_L":"DB->Parçala"
    }
   ]
  },

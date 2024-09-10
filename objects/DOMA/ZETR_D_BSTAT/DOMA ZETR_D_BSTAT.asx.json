@@ -379,6 +379,182 @@
     "DOMVAL_LD":"",
     "DOMVAL_HD":"",
     "DOMVALUE_L":"J"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":1,
+    "AS4VERS":0,
+    "DDTEXT":"Açılış Kaydı",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":""
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":2,
+    "AS4VERS":0,
+    "DDTEXT":"Denkleştirme belgesi",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"A"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":3,
+    "AS4VERS":0,
+    "DDTEXT":"Geri alınan denkleştirme belgesi",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"B"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":4,
+    "AS4VERS":0,
+    "DDTEXT":"Devamlı kayıt belgesi",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"D"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":5,
+    "AS4VERS":0,
+    "DDTEXT":"Kayıt ana defterde değil",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"L"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":6,
+    "AS4VERS":0,
+    "DDTEXT":"Örnek belge",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"M"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":7,
+    "AS4VERS":0,
+    "DDTEXT":"İşaretlenmiş kalemler",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"S"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":8,
+    "AS4VERS":0,
+    "DDTEXT":"Ön kayıt belgesi",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"V"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":9,
+    "AS4VERS":0,
+    "DDTEXT":"Belge tanıtıcısı değişmiş ön kayıt belgesi",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"W"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":10,
+    "AS4VERS":0,
+    "DDTEXT":"Silinmiş ön kayıt belgesi",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"Z"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":11,
+    "AS4VERS":0,
+    "DDTEXT":"Bakiye devri (ve geçişteki bakiye düzeltmeleri)",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"C"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":12,
+    "AS4VERS":0,
+    "DDTEXT":"Standartlaştırılan belge",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"U"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":13,
+    "AS4VERS":0,
+    "DDTEXT":"Bilanço açılış kaydı",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"O"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":14,
+    "AS4VERS":0,
+    "DDTEXT":"Simülasyon geliştirme defterinde kayıt",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"T"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":15,
+    "AS4VERS":0,
+    "DDTEXT":"Tahmini belge",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"P"
+   },
+   {
+    "DOMNAME":"ZETR_D_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":16,
+    "AS4VERS":0,
+    "DDTEXT":"Kapanış işlemleri (kayıtlar 0 kayıt türünde yapılmıyor)",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"J"
    }
   ]
  },

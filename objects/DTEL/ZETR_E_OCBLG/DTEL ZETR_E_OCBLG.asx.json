@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Op/Cl",
     "SCRTEXT_M":"Opening/Closing",
     "SCRTEXT_L":"Opening/Closing"
+   },
+   {
+    "ROLLNAME":"ZETR_E_OCBLG",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Açılış/Kapanış",
+    "REPTEXT":"Açılış/Kapanış",
+    "SCRTEXT_S":"Aç./Kap.",
+    "SCRTEXT_M":"Açılış/Kapanış",
+    "SCRTEXT_L":"Açılış/Kapanış"
    }
   ]
  },

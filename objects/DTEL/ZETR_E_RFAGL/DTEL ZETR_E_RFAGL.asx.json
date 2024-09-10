@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Read.Fagl.",
     "SCRTEXT_M":"Read from FAGLEXA",
     "SCRTEXT_L":"Read from FAGLEXA"
+   },
+   {
+    "ROLLNAME":"ZETR_E_RFAGL",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"FAGLEXA oku",
+    "REPTEXT":"FAGLEXA oku",
+    "SCRTEXT_S":"FAGL.oku",
+    "SCRTEXT_M":"FAGLEXA oku",
+    "SCRTEXT_L":"FAGLEXA oku"
    }
   ]
  },

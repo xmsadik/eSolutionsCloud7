@@ -60,6 +60,17 @@
     "SCRTEXT_S":"No Partial",
     "SCRTEXT_M":"No Partial",
     "SCRTEXT_L":"No Partial"
+   },
+   {
+    "ROLLNAME":"ZETR_E_NO_PART",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Tek Parça",
+    "REPTEXT":"Tek Parça",
+    "SCRTEXT_S":"Tek Parça",
+    "SCRTEXT_M":"Tek Parça",
+    "SCRTEXT_L":"Tek Parça"
    }
   ]
  },

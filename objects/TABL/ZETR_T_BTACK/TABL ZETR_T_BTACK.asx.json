@@ -100,7 +100,7 @@
     "DATATYPE":"CHAR",
     "LENG":100,
     "DECIMALS":0,
-    "DOMNAME":"CHAR100",
+    "DOMNAME":"ZETR_D_TEXT100",
     "SHLPORIGIN":"",
     "TABLETYPE":"",
     "DEPTH":0,

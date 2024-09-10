@@ -60,6 +60,17 @@
     "SCRTEXT_S":"HANA Activ",
     "SCRTEXT_M":"HANA Active",
     "SCRTEXT_L":"HANA Active"
+   },
+   {
+    "ROLLNAME":"ZETR_E_XHANA",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"HANA Aktif",
+    "REPTEXT":"HANA Aktif",
+    "SCRTEXT_S":"HANA Aktif",
+    "SCRTEXT_M":"HANA Aktif",
+    "SCRTEXT_L":"HANA Aktif"
    }
   ]
  },

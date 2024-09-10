@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Api Pass",
     "SCRTEXT_M":"Api Pass",
     "SCRTEXT_L":"Api Pass"
+   },
+   {
+    "ROLLNAME":"ZETR_E_SAPAS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"API Şifre",
+    "REPTEXT":"API Şifre",
+    "SCRTEXT_S":"API Şifre",
+    "SCRTEXT_M":"API Şifre",
+    "SCRTEXT_L":"API Şifre"
    }
   ]
  },

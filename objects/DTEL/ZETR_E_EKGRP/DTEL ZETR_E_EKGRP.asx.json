@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Purch.grp.",
     "SCRTEXT_M":"Purchasing group",
     "SCRTEXT_L":"Purchasing group"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EKGRP",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Satınalma grubu",
+    "REPTEXT":"Satınalma grubu",
+    "SCRTEXT_S":"Stnalm.gr.",
+    "SCRTEXT_M":"Satınalma grubu",
+    "SCRTEXT_L":"Satınalma grubu"
    }
   ]
  },

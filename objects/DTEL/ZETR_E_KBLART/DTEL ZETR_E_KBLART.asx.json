@@ -60,6 +60,17 @@
     "SCRTEXT_S":"CloseDocT",
     "SCRTEXT_M":"Closing Document Typ",
     "SCRTEXT_L":"Closing Document Type"
+   },
+   {
+    "ROLLNAME":"ZETR_E_KBLART",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Kapanış Belge Türü",
+    "REPTEXT":"Kapanış Belge Türü",
+    "SCRTEXT_S":"KapBlgTürü",
+    "SCRTEXT_M":"Kapanış Belge Türü",
+    "SCRTEXT_L":"Kapanış Belge Türü"
    }
   ]
  },

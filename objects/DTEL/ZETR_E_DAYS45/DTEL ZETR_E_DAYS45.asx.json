@@ -60,6 +60,17 @@
     "SCRTEXT_S":"45 Day Ch.",
     "SCRTEXT_M":"45 Day Check",
     "SCRTEXT_L":"45 Day Check"
+   },
+   {
+    "ROLLNAME":"ZETR_E_DAYS45",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"45 Gün Kontrolü",
+    "REPTEXT":"45 Gün Kontrolü",
+    "SCRTEXT_S":"45 Gün",
+    "SCRTEXT_M":"45 Gün Kontrolü",
+    "SCRTEXT_L":"45 Gün Kontrolü"
    }
   ]
  },

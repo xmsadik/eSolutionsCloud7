@@ -60,6 +60,17 @@
     "SCRTEXT_S":"G/L Acc",
     "SCRTEXT_M":"G/L Account",
     "SCRTEXT_L":"G/L Account"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_ANA_HESAP",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Ana hesap",
+    "REPTEXT":"Ana hesap",
+    "SCRTEXT_S":"Ana hesap",
+    "SCRTEXT_M":"Ana hesap",
+    "SCRTEXT_L":"Ana hesap"
    }
   ]
  },

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Debit/Cred",
     "SCRTEXT_M":"Debit/Credit Indicat",
     "SCRTEXT_L":"Debit/Credit Indicator"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_SHKZG_SRT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Borç/Alacak",
+    "REPTEXT":"Borç/Alacak",
+    "SCRTEXT_S":"Borç/Alaca",
+    "SCRTEXT_M":"Borç/Alacak",
+    "SCRTEXT_L":"Borç/Alacak"
    }
   ]
  },

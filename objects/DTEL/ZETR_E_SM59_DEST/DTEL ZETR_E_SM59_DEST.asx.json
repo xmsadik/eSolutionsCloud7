@@ -60,6 +60,17 @@
     "SCRTEXT_S":"SM59 Dest.",
     "SCRTEXT_M":"SM59 Destiniton",
     "SCRTEXT_L":"SM59 Destiniton"
+   },
+   {
+    "ROLLNAME":"ZETR_E_SM59_DEST",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"SM59 Destiniton",
+    "REPTEXT":"SM59 Destiniton",
+    "SCRTEXT_S":"SM59 Desti",
+    "SCRTEXT_M":"SM59 Destiniton",
+    "SCRTEXT_L":"SM59 Destiniton"
    }
   ]
  },

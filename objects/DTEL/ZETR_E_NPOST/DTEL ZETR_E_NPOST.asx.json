@@ -60,6 +60,17 @@
     "SCRTEXT_S":"NegPos Che",
     "SCRTEXT_M":"Negative Posting Che",
     "SCRTEXT_L":"Negative Posting Check"
+   },
+   {
+    "ROLLNAME":"ZETR_E_NPOST",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Negatif Kayıt Kontrolü",
+    "REPTEXT":"Negatif Kayıt Kontrolü",
+    "SCRTEXT_S":"Neg.kyt.",
+    "SCRTEXT_M":"Negatif Kayıt Kont.",
+    "SCRTEXT_L":"Negatif Kayıt Kontrolü"
    }
   ]
  },

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Check FAGL",
     "SCRTEXT_M":"Check ItNo From FAGL",
     "SCRTEXT_L":"Check Item Number From FAGL tables"
+   },
+   {
+    "ROLLNAME":"ZETR_E_NBSEG",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"FAGLEXA kalem kontrol etme",
+    "REPTEXT":"FAGLEXA kalem kontrol etme",
+    "SCRTEXT_S":"FAGL.klm.",
+    "SCRTEXT_M":"FAGLEXA klm.knt.etme",
+    "SCRTEXT_L":"FAGLEXA kalem kontrol etme"
    }
   ]
  },

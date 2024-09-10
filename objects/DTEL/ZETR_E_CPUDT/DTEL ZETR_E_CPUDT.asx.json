@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Entry Date",
     "SCRTEXT_M":"Entry Date",
     "SCRTEXT_L":"Entry Date"
+   },
+   {
+    "ROLLNAME":"ZETR_E_CPUDT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Giriş tarihi",
+    "REPTEXT":"Giriş tarihi",
+    "SCRTEXT_S":"Giriş tar.",
+    "SCRTEXT_M":"Giriş tarihi",
+    "SCRTEXT_L":"Giriş tarihi"
    }
   ]
  },

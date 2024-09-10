@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Branch",
     "SCRTEXT_M":"Branch",
     "SCRTEXT_L":"Branch"
+   },
+   {
+    "ROLLNAME":"ZETR_E_BCODE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Şube",
+    "REPTEXT":"Şube",
+    "SCRTEXT_S":"Şube",
+    "SCRTEXT_M":"Şube",
+    "SCRTEXT_L":"Şube"
    }
   ]
  },

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Real/Legal",
     "SCRTEXT_M":"Real/Legal Person",
     "SCRTEXT_L":"Real/Legal Person"
+   },
+   {
+    "ROLLNAME":"ZETR_E_LEGAL",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Gerçek/Tüzel Kişi",
+    "REPTEXT":"Gerçek/Tüzel Kişi",
+    "SCRTEXT_S":"Grç/Tzl",
+    "SCRTEXT_M":"Gerçek/Tüzel",
+    "SCRTEXT_L":"Gerçek/Tüzel Kişi"
    }
   ]
  },

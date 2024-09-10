@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Header Txt",
     "SCRTEXT_M":"Header Text",
     "SCRTEXT_L":"Header Text"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_BKTXT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Başlık metni",
+    "REPTEXT":"Başlık metni",
+    "SCRTEXT_S":"Başlık met",
+    "SCRTEXT_M":"Başlık metni",
+    "SCRTEXT_L":"Başlık metni"
    }
   ]
  },

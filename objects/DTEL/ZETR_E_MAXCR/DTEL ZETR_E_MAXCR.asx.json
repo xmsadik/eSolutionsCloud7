@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Max Cursor",
     "SCRTEXT_M":"Max Cursor",
     "SCRTEXT_L":"Max Cursor"
+   },
+   {
+    "ROLLNAME":"ZETR_E_MAXCR",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Max Cursor Sayısı",
+    "REPTEXT":"Max Cursor Sayısı",
+    "SCRTEXT_S":"MaxCursSy",
+    "SCRTEXT_M":"Max Cursor Sayısı",
+    "SCRTEXT_L":"Max Cursor Sayısı"
    }
   ]
  },

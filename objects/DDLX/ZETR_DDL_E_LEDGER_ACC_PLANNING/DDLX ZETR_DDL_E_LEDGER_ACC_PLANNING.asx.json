@@ -250,6 +250,34 @@
     "ELEMENT":"ACCPLANNING",
     "NAME":"UI.FACET$1$.LABEL",
     "TEXT":"Account Planning"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_ACC_PLANNING",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.LABEL",
+    "TEXT":"Hesap Planı"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_ACC_PLANNING",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAME",
+    "TEXT":"Hesap Planı"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_ACC_PLANNING",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAMEPLURAL",
+    "TEXT":"Hesap Planı"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_ACC_PLANNING",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"ACCPLANNING",
+    "NAME":"UI.FACET$1$.LABEL",
+    "TEXT":"Hesap Planı"
    }
   ]
  },

@@ -219,6 +219,94 @@
     "DOMVAL_LD":"",
     "DOMVAL_HD":"",
     "DOMVALUE_L":"LT"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":1,
+    "AS4VERS":0,
+    "DDTEXT":"Eşit",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"EQ"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":2,
+    "AS4VERS":0,
+    "DDTEXT":"Eşit Değil",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"NE"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":3,
+    "AS4VERS":0,
+    "DDTEXT":"Arasında",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"BT"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":4,
+    "AS4VERS":0,
+    "DDTEXT":"İçeren",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"CP"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":5,
+    "AS4VERS":0,
+    "DDTEXT":"Büyük Eşit",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"GE"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":6,
+    "AS4VERS":0,
+    "DDTEXT":"Daha Büyük",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"GT"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":7,
+    "AS4VERS":0,
+    "DDTEXT":"Küçük Eşit",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"LE"
+   },
+   {
+    "DOMNAME":"ZETR_D_OPTION",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":8,
+    "AS4VERS":0,
+    "DDTEXT":"Daha Küçük",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"LT"
    }
   ]
  },

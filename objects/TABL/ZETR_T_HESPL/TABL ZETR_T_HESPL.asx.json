@@ -199,7 +199,7 @@
     "DATATYPE":"CHAR",
     "LENG":255,
     "DECIMALS":0,
-    "DOMNAME":"CHAR255",
+    "DOMNAME":"ZETR_D_TEXT255",
     "SHLPORIGIN":"",
     "TABLETYPE":"",
     "DEPTH":0,

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"GetD.",
     "SCRTEXT_M":"Get Data from Other",
     "SCRTEXT_L":"Get Data from Other System"
+   },
+   {
+    "ROLLNAME":"ZETR_E_FRSYS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Diğer Sistemden Veri Al",
+    "REPTEXT":"Diğer Sistemden Veri Al",
+    "SCRTEXT_S":"DgrSysV.Al",
+    "SCRTEXT_M":"Diğer Sist.Veri Al",
+    "SCRTEXT_L":"Diğer Sistemden Veri Al"
    }
   ]
  },

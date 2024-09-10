@@ -60,6 +60,17 @@
     "SCRTEXT_S":"SaveAftGIB",
     "SCRTEXT_M":"Save SAP after GIB",
     "SCRTEXT_L":"Save SAP after GIB Operation Completed"
+   },
+   {
+    "ROLLNAME":"ZETR_E_GETFL",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"GIB Gönderim Sonrası Dosyaları SAP'Ye Kaydet",
+    "REPTEXT":"GIB Gönderim Sonrası Dosyaları SAP'Ye Kaydet",
+    "SCRTEXT_S":"GIB Gön.Ky",
+    "SCRTEXT_M":"GIB Gön.Son.SAP Kyd",
+    "SCRTEXT_L":"GIB Gönderim Sonrası Dosyaları SAP'Ye Ka"
    }
   ]
  },

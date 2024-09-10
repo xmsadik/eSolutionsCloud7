@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Adress",
     "SCRTEXT_M":"Adress Line",
     "SCRTEXT_L":"Adress Line"
+   },
+   {
+    "ROLLNAME":"ZETR_E_ADRESS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Adres",
+    "REPTEXT":"Adres",
+    "SCRTEXT_S":"Adres",
+    "SCRTEXT_M":"Adres",
+    "SCRTEXT_L":"Adres"
    }
   ]
  },

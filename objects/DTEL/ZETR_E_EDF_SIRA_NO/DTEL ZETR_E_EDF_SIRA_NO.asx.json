@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Queue Numb",
     "SCRTEXT_M":"Queue Number",
     "SCRTEXT_L":"Queue Number"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_SIRA_NO",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Sıra no",
+    "REPTEXT":"Sıra no",
+    "SCRTEXT_S":"Sıra no",
+    "SCRTEXT_M":"Sıra no",
+    "SCRTEXT_L":"Sıra no"
    }
   ]
  },

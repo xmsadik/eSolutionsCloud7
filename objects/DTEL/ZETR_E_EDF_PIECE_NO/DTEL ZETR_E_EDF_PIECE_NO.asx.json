@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Piece Numb",
     "SCRTEXT_M":"Piece Number",
     "SCRTEXT_L":"Piece Number"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_PIECE_NO",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Parça No",
+    "REPTEXT":"Parça No",
+    "SCRTEXT_S":"Parça No",
+    "SCRTEXT_M":"Parça No",
+    "SCRTEXT_L":"Parça No"
    }
   ]
  },

@@ -185,12 +185,12 @@
             ls_document-prfid = 'KAMU'.
           ENDIF.
 
-          IF ls_document-prfid IS INITIAL.
-            IF ls_company_data-prfid IS INITIAL.
-              ls_company_data-prfid = 'TEMEL'.
-            ENDIF.
-            ls_document-prfid = ls_company_data-prfid.
-          ENDIF.
+*          IF ls_document-prfid IS INITIAL.
+*            IF ls_company_data-prfid IS INITIAL.
+*              ls_company_data-prfid = 'TEMEL'.
+*            ENDIF.
+*            ls_document-prfid = ls_company_data-prfid.
+*          ENDIF.
         ENDIF.
       ENDIF.
     ENDIF.

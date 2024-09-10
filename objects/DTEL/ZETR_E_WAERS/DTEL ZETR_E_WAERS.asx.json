@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Curreny Ty",
     "SCRTEXT_M":"Curr Type except TRY",
     "SCRTEXT_L":"Curreny Type except TRY"
+   },
+   {
+    "ROLLNAME":"ZETR_E_WAERS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"TRY Dışında Para Birimi",
+    "REPTEXT":"TRY Dışında Para Birimi",
+    "SCRTEXT_S":"TRY Dış.PB",
+    "SCRTEXT_M":"TRY Dışında PB",
+    "SCRTEXT_L":"TRY Dışında Para Birimi"
    }
   ]
  },

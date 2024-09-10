@@ -187,6 +187,34 @@
     "ELEMENT":"GIBDOCTYPEDESC",
     "NAME":"UI.FACET$1$.LABEL",
     "TEXT":"Document Type Descriptions"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_DOC_TYPE_DES",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TITLE.LABEL",
+    "TEXT":"Belge Türü Tanımları"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_DOC_TYPE_DES",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAME",
+    "TEXT":"Belge Türü Tanımları"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_DOC_TYPE_DES",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"",
+    "NAME":"UI.HEADERINFO.TYPENAMEPLURAL",
+    "TEXT":"Belge Türü Tanımları"
+   },
+   {
+    "DDLXNAME":"ZETR_DDL_E_LEDGER_DOC_TYPE_DES",
+    "DDLANGUAGE":"T",
+    "ELEMENT":"GIBDOCTYPEDESC",
+    "NAME":"UI.FACET$1$.LABEL",
+    "TEXT":"Belge Türü Tanımları"
    }
   ]
  },

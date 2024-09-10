@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Dissc->XML",
     "SCRTEXT_M":"Dissection->XML",
     "SCRTEXT_L":"Dissection->XML"
+   },
+   {
+    "ROLLNAME":"ZETR_E_SRLI2",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Parçala->XML",
+    "REPTEXT":"Parçala->XML",
+    "SCRTEXT_S":"Parç->XML",
+    "SCRTEXT_M":"Parçala->XML",
+    "SCRTEXT_L":"Parçala->XML"
    }
   ]
  },

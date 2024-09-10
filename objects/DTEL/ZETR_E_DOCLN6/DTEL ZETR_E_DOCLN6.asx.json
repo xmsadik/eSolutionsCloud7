@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Line Item",
     "SCRTEXT_M":"Line Item",
     "SCRTEXT_L":"Line Item"
+   },
+   {
+    "ROLLNAME":"ZETR_E_DOCLN6",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Kayıt no",
+    "REPTEXT":"Kayıt no",
+    "SCRTEXT_S":"Kayıt no",
+    "SCRTEXT_M":"Kayıt no",
+    "SCRTEXT_L":"Kayıt no"
    }
   ]
  },

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"API Addres",
     "SCRTEXT_M":"API Address",
     "SCRTEXT_L":"API Address"
+   },
+   {
+    "ROLLNAME":"ZETR_E_SRAPI",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"API Adres",
+    "REPTEXT":"API Adres",
+    "SCRTEXT_S":"API Adres",
+    "SCRTEXT_M":"API Adres",
+    "SCRTEXT_L":"API Adres"
    }
   ]
  },

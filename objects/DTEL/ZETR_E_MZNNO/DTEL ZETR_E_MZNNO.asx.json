@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Mizan",
     "SCRTEXT_M":"Mizan Gösterme",
     "SCRTEXT_L":"Mizan Gösterme"
+   },
+   {
+    "ROLLNAME":"ZETR_E_MZNNO",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Mizan Gösterme",
+    "REPTEXT":"Mizan Gösterme",
+    "SCRTEXT_S":"Mzn.Gös.",
+    "SCRTEXT_M":"Mizan Gösterme",
+    "SCRTEXT_L":"Mizan Gösterme"
    }
   ]
  },

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Doc. Statu",
     "SCRTEXT_M":"Document Status",
     "SCRTEXT_L":"Document Status"
+   },
+   {
+    "ROLLNAME":"ZETR_E_BSTAT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Belge durumu",
+    "REPTEXT":"Belge durumu",
+    "SCRTEXT_S":"Belge dur.",
+    "SCRTEXT_M":"Belge durumu",
+    "SCRTEXT_L":"Belge durumu"
    }
   ]
  },

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"NotSend-BP",
     "SCRTEXT_M":"Cannot Be Send-Balan",
     "SCRTEXT_L":"Cannot Be Send-Balance Inconsistency"
+   },
+   {
+    "ROLLNAME":"ZETR_E_DCDGN",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Mizan Farkında Gönderim Yapılamaz",
+    "REPTEXT":"Mizan Farkında Gönderim Yapılamaz",
+    "SCRTEXT_S":"Mizan Fark",
+    "SCRTEXT_M":"Mizan Fark.Gönd.Yplm",
+    "SCRTEXT_L":"Mizan Farkında Gönderim Yapılamaz"
    }
   ]
  },

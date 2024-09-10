@@ -60,6 +60,17 @@
     "SCRTEXT_S":"LedItemNum",
     "SCRTEXT_M":"Ledger Item Number",
     "SCRTEXT_L":"Ledger Item Number"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_DEFTER_KLMNO",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Defter kalem no",
+    "REPTEXT":"Defter kalem no",
+    "SCRTEXT_S":"Dft.klm.",
+    "SCRTEXT_M":"Defter kalem no",
+    "SCRTEXT_L":"Defter kalem no"
    }
   ]
  },

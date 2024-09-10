@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Api User",
     "SCRTEXT_M":"Api User",
     "SCRTEXT_L":"Api User"
+   },
+   {
+    "ROLLNAME":"ZETR_E_SAUSR",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"API User",
+    "REPTEXT":"API User",
+    "SCRTEXT_S":"API User",
+    "SCRTEXT_M":"API User",
+    "SCRTEXT_L":"API User"
    }
   ]
  },

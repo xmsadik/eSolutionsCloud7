@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Customer N",
     "SCRTEXT_M":"Customer Name",
     "SCRTEXT_L":"Customer Name"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_MUSTERI_AD",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Müşteri adı",
+    "REPTEXT":"Müşteri adı",
+    "SCRTEXT_S":"Müşteri ad",
+    "SCRTEXT_M":"Müşteri adı",
+    "SCRTEXT_L":"Müşteri adı"
    }
   ]
  },

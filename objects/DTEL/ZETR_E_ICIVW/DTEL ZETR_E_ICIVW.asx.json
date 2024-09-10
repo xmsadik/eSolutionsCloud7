@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Inc.inv.vw",
     "SCRTEXT_M":"Inc.inv.view",
     "SCRTEXT_L":"Inc.invoice view"
+   },
+   {
+    "ROLLNAME":"ZETR_E_ICIVW",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Gelen Fatura Görüntüle",
+    "REPTEXT":"Gelen Fatura Görüntüle",
+    "SCRTEXT_S":"Gln.fat.gr",
+    "SCRTEXT_M":"Gel.fat.gör.",
+    "SCRTEXT_L":"Gelen Fatura Görüntüle"
    }
   ]
  },

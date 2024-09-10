@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Ledger Bal",
     "SCRTEXT_M":"Ledger Balance",
     "SCRTEXT_L":"Ledger Balance"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_DEFTER_YNSYN_TUT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Deftere yansıyan tutar",
+    "REPTEXT":"Deftere yansıyan tutar",
+    "SCRTEXT_S":"Def.yan.t",
+    "SCRTEXT_M":"Deftere yan.tut",
+    "SCRTEXT_L":"Deftere yansıyan tutar"
    }
   ]
  },

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Tot.Op.Bal",
     "SCRTEXT_M":"Total of Openning Ba",
     "SCRTEXT_L":"Total of Openning Balance"
+   },
+   {
+    "ROLLNAME":"ZETR_E_GTAOB",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Açılış Kayıtları Mizanını Haricen Topla",
+    "REPTEXT":"Açılış Kayıtları Mizanını Haricen Topla",
+    "SCRTEXT_S":"Aç.Kyt.Mzn",
+    "SCRTEXT_M":"Aç.Kyt.Mzn.Hrc.Topla",
+    "SCRTEXT_L":"Açılış Kayıtları Mizanını Haricen Topla"
    }
   ]
  },

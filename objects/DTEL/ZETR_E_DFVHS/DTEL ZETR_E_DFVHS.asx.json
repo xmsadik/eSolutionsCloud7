@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Amo.Wo.A.I",
     "SCRTEXT_M":"Amount Against Indic",
     "SCRTEXT_L":"Amount Works Against Indicator"
+   },
+   {
+    "ROLLNAME":"ZETR_E_DFVHS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Tutar Göstergenin Tersinde Çalışıyor",
+    "REPTEXT":"Tutar Göstergenin Tersinde Çalışıyor",
+    "SCRTEXT_S":"Tut.Gös.Tr",
+    "SCRTEXT_M":"Tutar Göst.Ters.",
+    "SCRTEXT_L":"Tutar Göstergenin Tersinde Çalışıyor"
    }
   ]
  },

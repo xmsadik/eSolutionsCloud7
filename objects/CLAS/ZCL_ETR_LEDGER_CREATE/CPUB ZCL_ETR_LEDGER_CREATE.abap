@@ -56,7 +56,7 @@ CLASS zcl_etr_ledger_create DEFINITION
               bktxt TYPE bktxt,
               budat TYPE budat,
               bldat TYPE bldat,
-              rldnr TYPE zetr_e_rldnr,
+              rldnr TYPE fins_ledger,
 
             END OF ty_bkpf.
 

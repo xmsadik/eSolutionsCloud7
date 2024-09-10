@@ -60,6 +60,17 @@
     "SCRTEXT_S":"2nd.c.l.ac",
     "SCRTEXT_M":"Second copy up.activ",
     "SCRTEXT_L":"Second copy upload active"
+   },
+   {
+    "ROLLNAME":"ZETR_E_IKYLS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"İkinci Kopya Yükleme Aktif",
+    "REPTEXT":"İkinci Kopya Yükleme Aktif",
+    "SCRTEXT_S":"İ.K.Y.Aktf",
+    "SCRTEXT_M":"İkinci Kopya Yükleme",
+    "SCRTEXT_L":"İkinci Kopya Yükleme Aktif"
    }
   ]
  },

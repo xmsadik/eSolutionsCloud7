@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Fag.InLoop",
     "SCRTEXT_M":"Fag.InLoop",
     "SCRTEXT_L":"Read FAGLFLEXA Chart in Loop"
+   },
+   {
+    "ROLLNAME":"ZETR_E_RFLOP",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"FAGLEXA loop",
+    "REPTEXT":"FAGLEXA loop",
+    "SCRTEXT_S":"FAGLEXA lo",
+    "SCRTEXT_M":"FAGLEXA loop",
+    "SCRTEXT_L":"FAGLEXA loop"
    }
   ]
  },

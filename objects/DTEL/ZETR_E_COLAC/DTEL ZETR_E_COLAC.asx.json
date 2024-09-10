@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Coll.Doc.",
     "SCRTEXT_M":"Coll.doc.by.account",
     "SCRTEXT_L":"Collect document by account"
+   },
+   {
+    "ROLLNAME":"ZETR_E_COLAC",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Belgeyi Hesap Bazında Topla",
+    "REPTEXT":"Belgeyi Hesap Bazında Topla",
+    "SCRTEXT_S":"Hesap Top",
+    "SCRTEXT_M":"Belge Hesap Topla",
+    "SCRTEXT_L":"Belgeyi Hesap Bazında Topla"
    }
   ]
  },

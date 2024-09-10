@@ -139,6 +139,50 @@
     "DOMVAL_LD":"",
     "DOMVAL_HD":"",
     "DOMVALUE_L":"ICDLV"
+   },
+   {
+    "DOMNAME":"ZETR_D_TABLE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":1,
+    "AS4VERS":0,
+    "DDTEXT":"Giden Fatura",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"OGINV"
+   },
+   {
+    "DOMNAME":"ZETR_D_TABLE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":2,
+    "AS4VERS":0,
+    "DDTEXT":"Giden İrsaliye",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"OGDLV"
+   },
+   {
+    "DOMNAME":"ZETR_D_TABLE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":3,
+    "AS4VERS":0,
+    "DDTEXT":"Gelen Fatura",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"ICINV"
+   },
+   {
+    "DOMNAME":"ZETR_D_TABLE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "VALPOS":4,
+    "AS4VERS":0,
+    "DDTEXT":"Gelen irsaliye",
+    "DOMVAL_LD":"",
+    "DOMVAL_HD":"",
+    "DOMVALUE_L":"ICDLV"
    }
   ]
  },

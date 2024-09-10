@@ -60,6 +60,17 @@
     "SCRTEXT_S":"W/O Tax De",
     "SCRTEXT_M":"Without Tax Detail",
     "SCRTEXT_L":"Without Tax Detail"
+   },
+   {
+    "ROLLNAME":"ZETR_E_VDTYS",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Vergi detaysız",
+    "REPTEXT":"Vergi detaysız",
+    "SCRTEXT_S":"Vrg.dtysz",
+    "SCRTEXT_M":"Vergi detaysız",
+    "SCRTEXT_L":"Vergi detaysız"
    }
   ]
  },

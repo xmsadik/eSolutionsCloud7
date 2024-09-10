@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Balance Ch",
     "SCRTEXT_M":"Balance Check",
     "SCRTEXT_L":"Balance Check"
+   },
+   {
+    "ROLLNAME":"ZETR_E_DCDNO",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Mizan Kontrolü Yapma",
+    "REPTEXT":"Mizan Kontrolü Yapma",
+    "SCRTEXT_S":"Mizan kont",
+    "SCRTEXT_M":"Mizan knt.yapma",
+    "SCRTEXT_L":"Mizan Kontrolü Yapma"
    }
   ]
  },

@@ -43,7 +43,7 @@
                ls_params      TYPE zetr_t_dopvr,
                lv_alternative TYPE c LENGTH 1,
                ls_t001        TYPE ty_t001,
-               lt_smm         TYPE TABLE OF zetr_t_symmb,
+*               lt_smm         TYPE TABLE OF zetr_t_symmb,
                lrs_ablart     TYPE ty_blart_range,
                lr_ablart      TYPE TABLE OF  ty_blart_range,
                lrs_kblart     TYPE ty_blart_range,
@@ -115,17 +115,6 @@
 *    ENDIF.
 *  ENDIF.
 
-*
-*         IF gs_bukrs-creator IS INITIAL.
-*           SELECT SINGLE adrp~name_first adrp~name_last
-*             FROM adrp
-*            INNER JOIN usr21 ON adrp~persnumber = usr21~persnumber
-*             INTO (lv_first,lv_last)
-*            WHERE usr21~bname = sy-uname.
-*
-*           CONCATENATE lv_first lv_last
-*                  INTO gs_bukrs-creator SEPARATED BY space.
-*         ENDIF.
 
         IF ls_bukrs-creator IS INITIAL.
 
@@ -164,14 +153,14 @@
           lv_alternative = space.
         ENDIF.
 
-*        IF gs_bukrs-maxit IS INITIAL.
-*          gs_bukrs-maxit = 20000.
-*        ENDIF.
+        IF ls_bukrs-maxit IS INITIAL.
+          ls_bukrs-maxit = 20000.
+        ENDIF.
 
-        SELECT *
-          FROM zetr_t_symmb
-         WHERE bukrs = @lv_bukrs
-          INTO TABLE @lt_smm.
+*        SELECT *
+*          FROM zetr_t_symmb
+*         WHERE bukrs = @lv_bukrs
+*          INTO TABLE @lt_smm.
 
         IF ls_params-waers IS INITIAL.
           DATA(lv_waers) = 'TRY'.
@@ -318,7 +307,7 @@
                   bktxt TYPE bktxt,
                   budat TYPE budat,
                   bldat TYPE bldat,
-                  rldnr TYPE zetr_e_rldnr,
+                  rldnr TYPE fins_ledger,
 
                 END OF ty_bkpf.
 
@@ -410,29 +399,29 @@
         lt_ex_docs_temp = lt_ex_docs.
         lt_copy_belnr_temp = lt_copy_belnr.
 
-        zcl_etr_ledger_create=>create(
-        EXPORTING
-         is_params      = ls_params
-         is_bukrs       =  ls_bukrs
-         iv_bukrs       = lv_bukrs
-         iv_gjahr       = lv_gjahr
-*           IV_BCODE
-         iv_monat       = lv_monat
-         iv_alternative = lv_alternative
-        iv_f51_blart    = ''
-        iv_f51_tcode    = ''
-        iv_tasfiye      = '' "YiğitcanÖ. /ITETR/EDF_LEDGER_CREATE_CONTR fonksiyonundan doluyor ? zorunlu mu sor /ITETR/EDF_DEFKY- TSFYD Tasfiye Halindeki Defter
-        iv_ledger       = '' "boş gönderiliyor üründe
-        CHANGING
-        t_bkpf          =  lt_bkpf_temp
-        t_ex_docs       = lt_ex_docs_temp
-*        T_WRONG_TYPES type zetr_t_BTHBL "Kullanılmıyor @YiğitcanÖ.
-        t_copy_belnr    = lt_copy_belnr_temp
-*        T_CASH
-        tr_hkont        = lr_hkont
-*        tr_gsber       =  "Kullanılmıyor @YiğitcanÖ.
-*        t_ledger       =  "Kullanılmıyor @YiğitcanÖ.
-        t_skb1          = lt_skb1        ).
+*        zcl_etr_ledger_create=>create(
+*        EXPORTING
+*         is_params      = ls_params
+*         is_bukrs       =  ls_bukrs
+*         iv_bukrs       = lv_bukrs
+*         iv_gjahr       = lv_gjahr
+**           IV_BCODE
+*         iv_monat       = lv_monat
+*         iv_alternative = lv_alternative
+*        iv_f51_blart    = ''
+*        iv_f51_tcode    = ''
+*        iv_tasfiye      = '' "YiğitcanÖ. /ITETR/EDF_LEDGER_CREATE_CONTR fonksiyonundan doluyor ? zorunlu mu sor /ITETR/EDF_DEFKY- TSFYD Tasfiye Halindeki Defter
+*        iv_ledger       = '' "boş gönderiliyor üründe
+*        CHANGING
+*        t_bkpf          =  lt_bkpf_temp
+*        t_ex_docs       = lt_ex_docs_temp
+**        T_WRONG_TYPES type zetr_t_BTHBL "Kullanılmıyor @YiğitcanÖ.
+*        t_copy_belnr    = lt_copy_belnr_temp
+**        T_CASH
+*        tr_hkont        = lr_hkont
+**        tr_gsber       =  "Kullanılmıyor @YiğitcanÖ.
+**        t_ledger       =  "Kullanılmıyor @YiğitcanÖ.
+*        t_skb1          = lt_skb1        ).
 
 
 

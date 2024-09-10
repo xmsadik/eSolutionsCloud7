@@ -1,7 +1,7 @@
   METHOD outgoing_invoice_save.
     SELECT COUNT(*)
       FROM zetr_t_oginv
-      WHERE awtyp EQ @iv_awtyp
+      WHERE awtyp EQ @iv_awtyp(4)
         AND bukrs EQ @iv_bukrs
         AND belnr EQ @iv_belnr
         AND gjahr EQ @iv_gjahr.

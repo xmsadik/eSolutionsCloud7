@@ -60,6 +60,17 @@
     "SCRTEXT_S":"LEndDate",
     "SCRTEXT_M":"Ledger End Date",
     "SCRTEXT_L":"Ledger End Date"
+   },
+   {
+    "ROLLNAME":"ZETR_E_HDATBI",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Defter Bitiş Tarihi",
+    "REPTEXT":"Defter Bitiş Tarihi",
+    "SCRTEXT_S":"DefBitTar",
+    "SCRTEXT_M":"Defter Bitiş",
+    "SCRTEXT_L":"Defter Bitiş Tarihi"
    }
   ]
  },

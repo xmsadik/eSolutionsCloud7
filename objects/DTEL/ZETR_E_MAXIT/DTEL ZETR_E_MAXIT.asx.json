@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Max Number",
     "SCRTEXT_M":"Max Number of Items",
     "SCRTEXT_L":"Max Number of Items Per Piece"
+   },
+   {
+    "ROLLNAME":"ZETR_E_MAXIT",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Parça Başına Max Kalem Sayısı",
+    "REPTEXT":"Parça Başına Max Kalem Sayısı",
+    "SCRTEXT_S":"Max.Klm.S.",
+    "SCRTEXT_M":"P.Baş.Max.Klm.Say",
+    "SCRTEXT_L":"Parça Başına Max Kalem Sayısı"
    }
   ]
  },

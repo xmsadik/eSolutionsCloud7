@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Part No",
     "SCRTEXT_M":"Part No",
     "SCRTEXT_L":"Part No"
+   },
+   {
+    "ROLLNAME":"ZETR_E_EDF_PART_NO",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Part No",
+    "REPTEXT":"Part No",
+    "SCRTEXT_S":"Part No",
+    "SCRTEXT_M":"Part No",
+    "SCRTEXT_L":"Part No"
    }
   ]
  },

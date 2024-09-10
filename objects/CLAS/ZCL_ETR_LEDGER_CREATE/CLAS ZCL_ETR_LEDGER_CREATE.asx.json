@@ -389,7 +389,7 @@
     "EDITORDER":24,
     "LOCKED":"",
     "DISPID":0,
-    "R3RELEASE":"912",
+    "R3RELEASE":"",
     "AUTHOR":"",
     "CREATEDON":"2024-08-27",
     "CHANGEDBY":"",
@@ -897,8 +897,8 @@
     "BCMTDCOM":"",
     "BCMTDSYN":0,
     "BCEVTCAT":0,
-    "TYPESRC_LENG":542,
-    "TYPESRC":"BEGIN OF ty_bkpf ,\r\n              bukrs TYPE bukrs,\r\n              belnr TYPE belnr_d,\r\n              gjahr TYPE gjahr,\r\n              blart TYPE blart,\r\n              awtyp TYPE c LENGTH 5,\r\n              awkey TYPE c LENGTH 20,\r\n              stblg TYPE belnr_d,\r\n              xblnr TYPE xblnr1,\r\n              bstat TYPE zetr_e_bstat,\r\n              tcode TYPE tcode,\r\n              bktxt TYPE bktxt,\r\n              budat TYPE budat,\r\n              bldat TYPE bldat,\r\n              rldnr TYPE zetr_e_rldnr,\r\n\r\n            END OF ty_bkpf\r\n"
+    "TYPESRC_LENG":541,
+    "TYPESRC":"BEGIN OF ty_bkpf ,\r\n              bukrs TYPE bukrs,\r\n              belnr TYPE belnr_d,\r\n              gjahr TYPE gjahr,\r\n              blart TYPE blart,\r\n              awtyp TYPE c LENGTH 5,\r\n              awkey TYPE c LENGTH 20,\r\n              stblg TYPE belnr_d,\r\n              xblnr TYPE xblnr1,\r\n              bstat TYPE zetr_e_bstat,\r\n              tcode TYPE tcode,\r\n              bktxt TYPE bktxt,\r\n              budat TYPE budat,\r\n              bldat TYPE bldat,\r\n              rldnr TYPE fins_ledger,\r\n\r\n            END OF ty_bkpf\r\n"
    },
    {
     "CLSNAME":"ZCL_ETR_LEDGER_CREATE",

@@ -60,6 +60,17 @@
     "SCRTEXT_S":"XML Disabl",
     "SCRTEXT_M":"XML/HTML Disable",
     "SCRTEXT_L":"XML/HTML Rendering Disabled (Except Serv"
+   },
+   {
+    "ROLLNAME":"ZETR_E_XHTML",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"XML/HTML Oluşturma Deaktif (Servis Gönderim Hariç)",
+    "REPTEXT":"XML/HTML Oluşturma Deaktif (Servis Gönderim Hariç)",
+    "SCRTEXT_S":"XML Deaktf",
+    "SCRTEXT_M":"XML/HTML Deaktif",
+    "SCRTEXT_L":"XML/HTML Oluşturma Deaktif (Servis Hariç"
    }
   ]
  },

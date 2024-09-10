@@ -60,6 +60,17 @@
     "SCRTEXT_S":"Acc. Code",
     "SCRTEXT_M":"Account Code",
     "SCRTEXT_L":"Account Code"
+   },
+   {
+    "ROLLNAME":"ZETR_E_ACCOUNT_CODE",
+    "DDLANGUAGE":"T",
+    "AS4LOCAL":"N",
+    "AS4VERS":0,
+    "DDTEXT":"Hesap Kodu",
+    "REPTEXT":"Hesap Kodu",
+    "SCRTEXT_S":"Hesap Kodu",
+    "SCRTEXT_M":"Hesap Kodu",
+    "SCRTEXT_L":"Hesap Kodu"
    }
   ]
  },
